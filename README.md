@@ -1,4 +1,4 @@
-# <h1 align="center"> MLCoE Probation Tasks</h1>
+# <h1 align="center"> MLCoE Probation </h1>
 
 Welcome to the MLCoE Apprenticeship Program!
 
