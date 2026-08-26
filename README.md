@@ -1,6 +1,21 @@
 # <h1 align="center"> MLCoE Probation Tasks</h1>
 
-Welcome! This repository holds task submissions for all MLCoE Apprentices during their probation period. Please read this guide fully before starting your first task.
+Welcome to the MLCoE Apprenticeship Program!
+
+This repository is where you will maintain and submit your tasks throughout the probation period. The probation is not just about completing tasks — it is an opportunity to learn, explore, demonstrate your skills, and understand how we work together as a team.
+
+#### What is the Probation Period?
+
+The probation period is the initial phase of your journey with MLCoE, where you will be given a series of tasks and activities designed to understand your:
+
+- Technical skills and problem-solving ability
+- Learning attitude and willingness to explore
+- Consistency and responsibility
+- Communication and teamwork
+- Ability to take feedback and improve
+- Interest in contributing to the society and its projects
+
+You are not expected to know everything from the beginning. The purpose of this period is to learn, experiment, ask questions, and gradually improve.
 
 ---
 
